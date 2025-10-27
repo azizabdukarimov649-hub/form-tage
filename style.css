@@ -1,0 +1,25 @@
+h1{
+    background-color: yellow;
+    color: red;
+}
+img{
+    width: 300px;
+}
+.t0{
+    background-color: chartreuse;
+    text-align: center;
+}
+
+.t1{
+    color: blue;
+}
+.t2{
+background-color: aqua;
+}
+.t3{
+    background-color: rgb(161, 115, 69);
+}
+.t4{
+    color: blue;
+    text-align: center;
+}
